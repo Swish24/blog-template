@@ -1,10 +1,10 @@
 ---
-title: My first post using Github as source
-subtitle: An example subtitle
+title: Test Article
+subtitle: From my brain to yours
 slug: post-from-github-as-source
-tags: reactjs, css, python, nodejs
+tags: aws, terraform, devops
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
-domain: CHANGE_THIS_TO_YOUR_DOMAIN
+domain: blog.dvsn.ai
 ---
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
